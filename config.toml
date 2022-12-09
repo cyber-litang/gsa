@@ -1,0 +1,7 @@
+identity = "1" # header 中的 identity 字段
+authorization = "1" # header 中的 authorization 字段
+blade_auth = "1" # header 中的 blade_auth 字段
+
+[sites]
+site1 = "1" # <目标文件名> = <site_id>
+site2 = "1"
